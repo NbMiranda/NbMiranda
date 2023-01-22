@@ -4,7 +4,7 @@
     Olá
 </div>
 <div>
-  <p> Olá me chamo Nathan no momento sou estagiario em desivolvimento Full Stack na Pedbot em Marilía-SP. Estou meu 2° ano do curso Sistemas de Informação na UNIVEM tambem em Marilía-SP
+  <p> Olá me chamo Nathan no momento sou estagiario em desivolvimento Full Stack na Pedbot em Marilía-SP. <br>Estou cursando meu 2° ano em Sistemas de Informação na UNIVEM em Marilía-SP
   <br>
 </div>
 
@@ -38,12 +38,11 @@
 
 
   <div align="center">
-  <a href="https://github.com/Guils1">
+  <a href="https://github.com/NbMiranda">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=NbMiranda&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guils1&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
   
 </div>
-  
 [![Spotify](https://vercel.com/nbmiranda/novatorem/FJTPc1FFBErtXYFbJTnMAueF4R8k/api/spotify)](https://open.spotify.com/user/pocapolas)

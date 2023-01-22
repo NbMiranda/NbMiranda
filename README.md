@@ -1,19 +1,27 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+there!!;Here+is+Nate+;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <div>
-  
-  <h1 align="center">
-    Olá
-</div>
-<div>
-  <p> Olá me chamo Nathan no momento sou estagiario em desivolvimento Full Stack na Pedbot em Marilía-SP. <br>Estou cursando meu 2° ano em Sistemas de Informação na UNIVEM em Marilía-SP
+  <p> Olá me chamo Nathan no momento sou estagiario em desivolvimento Full Stack na Pedbot em Marilía-SP. <br>Estou cursando meu 2° ano em Sistemas de Informação na UNIVEM em Marilía-SP.
   <br>
 </div>
+<br>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+there!!;Here+is+Nate+;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
  
   <div align="center">
 
     
 <div align="center" valign="top"><br>
-
+    <h3>Tecnologias ⤵</h3>
+    
   [![Minhas habilidades](https://skills.thijs.gg/icons?i=py,linux,vscode,git,docker,mysql,bash ) ](https://skills.thijs.gg)   <br>
   [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,php,laravel,vuejs) ](https://skills.thijs.gg)
 
@@ -23,7 +31,7 @@
 
 <div align="center">
     
-#### Contatos:
+### Contatos:
     
 </div>
     
@@ -33,17 +41,30 @@
   <a href="mailto:guilherme.valerio@pedbot.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/31lljksf75zwblxysfuzixmqrfpe"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
-<hr>
+<br>
 <div align="center">
 
 
-  <div align="center">
-  <a href="https://github.com/NbMiranda">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=NbMiranda&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guils1&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+| <a href="https://github.com/Nbmiranda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nbmiranda&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Nbmiranda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbmiranda&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
   
+
+ 
 </div>
 
-[![Spotify](https://vercel.com/nbmiranda/novatorem/FJTPc1FFBErtXYFbJTnMAueF4R8k/api/spotify)](https://open.spotify.com/user/pocapolas)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+there!!;Here+is+Nate+;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>

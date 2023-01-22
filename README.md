@@ -46,4 +46,4 @@
   
 </div>
   
-[![Spotify](https://https://vercel.com/nbmiranda/novatorem/FJTPc1FFBErtXYFbJTnMAueF4R8k/api/spotify)](https://open.spotify.com/user/pocapolas)
+[![Spotify](https://vercel.com/nbmiranda/novatorem/FJTPc1FFBErtXYFbJTnMAueF4R8k/api/spotify)](https://open.spotify.com/user/pocapolas)

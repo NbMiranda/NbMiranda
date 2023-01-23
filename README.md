@@ -14,7 +14,7 @@
 
     
 <div align="center" valign="top"><br>
-    <h3>Tecnologias </h3>
+    <h3 style="color:#7c55d4;">Tecnologias </h3>
     
   [![Minhas habilidades](https://skills.thijs.gg/icons?i=py,linux,vscode,git,docker,mysql,bash ) ](https://skills.thijs.gg)   <br>
   [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,php,laravel,vuejs) ](https://skills.thijs.gg)
@@ -25,15 +25,13 @@
 
 <div align="center">
     
-### Contatos:
+<h3 style="color:#7c55d4;">Eu :v: </h3>
     
 </div>
     
 <div align="center">
-  <a href="https://www.instagram.com/guilhermevalerio_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilvalerio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:guilherme.valerio@pedbot.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/31lljksf75zwblxysfuzixmqrfpe"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/nate_miiranda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathan-barros-miranda-52b7b5176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
 <div align="center">
@@ -45,4 +43,3 @@
 
  
 </div>
-

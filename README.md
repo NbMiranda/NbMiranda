@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<div>
+<div align="center">
   <p> Olá me chamo Nathan no momento sou estagiario em desivolvimento Full Stack na Pedbot em Marilía-SP. <br>Estou cursando meu 2° ano em Sistemas de Informação na UNIVEM em Marilía-SP.
   <br>
 </div>
@@ -43,3 +43,4 @@
 
  
 </div>
+

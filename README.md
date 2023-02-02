@@ -37,7 +37,7 @@
 <div align="center">
 
 
-| <a href="https://github.com/Nbmiranda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nbmiranda&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Nbmiranda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbmiranda&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/NbMiranda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nbmiranda&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/NbMiranda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbmiranda&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
   
 

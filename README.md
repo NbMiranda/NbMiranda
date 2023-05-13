@@ -34,12 +34,13 @@
   <a href="https://www.linkedin.com/in/nathan-barros-miranda-52b7b5176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-<div align="center">
 
+  <div align="center">
+  <a href="https://github.com/NbMiranda">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NbMiranda&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NbMiranda&layout=compact&langs_count=7&theme=graywhite"/>
+</div>
 
-| <a href="https://github.com/NbMiranda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nbmiranda&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/NbMiranda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbmiranda&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-  
 
  
 </div>

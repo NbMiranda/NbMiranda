@@ -8,9 +8,6 @@
   <p> Olá me chamo Nathan no momento sou Desenvolvedor Junior Full Stack na Pedbot em Marilía-SP. <br>Estou cursando meu 2° ano em Sistemas de Informação na UNIVEM em Marilía-SP.
   <br>
 </div>
-
-  [![Minhas habilidades](https://skills.thijs.gg/icons?i=py,linux,vscode,git,docker,mysql,bash ) ](https://skills.thijs.gg)   <br>
-  [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,php,laravel,vuejs) ](https://skills.thijs.gg)
  
   <div align="center">
 
@@ -20,7 +17,8 @@
     
 
 
-
+  [![Minhas habilidades](https://skills.thijs.gg/icons?i=py,linux,vscode,git,docker,mysql,bash ) ](https://skills.thijs.gg)   <br>
+  [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,php,laravel,vuejs) ](https://skills.thijs.gg)
   
 
 

@@ -9,6 +9,8 @@
   <br>
 </div>
 
+  [![Minhas habilidades](https://skills.thijs.gg/icons?i=py,linux,vscode,git,docker,mysql,bash ) ](https://skills.thijs.gg)   <br>
+  [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,php,laravel,vuejs) ](https://skills.thijs.gg)
  
   <div align="center">
 

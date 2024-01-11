@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <p> Olá me chamo Nathan no momento sou Desenvolvedor Junior Full Stack na Pedbot em Marilía-SP. <br>Estou cursando meu 2° ano em Sistemas de Informação na UNIVEM em Marilía-SP.
+  <p> Olá me chamo Nathan no momento sou Desenvolvedor Junior II Full Stack na Pedbot em Marilía-SP. <br>Estou cursando meu 3° ano em Sistemas de Informação na UNIVEM em Marilía-SP.
   <br>
 </div>
  

@@ -17,8 +17,8 @@
     
 
 
-  [![Minhas habilidades](https://skills.thijs.gg/icons?i=py,linux,vscode,git,docker,mysql,postgres,bash ) ](https://skills.thijs.gg)   <br>
-  [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,php,laravel,vuejs,nest) ](https://skills.thijs.gg)
+  [![Minhas habilidades](https://skills.thijs.gg/icons?i=py,linux,vscode,git,docker,mysql,postgres,bash,graphql ) ](https://skills.thijs.gg)   <br>
+  [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,php,laravel,vuejs,nest,typescript) ](https://skills.thijs.gg)
   
 
 

@@ -22,15 +22,12 @@
   </a>
 </p>
 
-<div align="center">
+  <div align="center">
   <a href="https://github.com/NbMiranda">
-    <img height="190em" width="48%" src="https://github-readme-stats.vercel.app/api?username=NbMiranda&show_icons=true&theme=neon&include_all_commits=true&count_private=true"></img>
-  </a>
-  
-  <a href="https://github.com/NbMiranda">
-    <img height="190em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NbMiranda&layout=compact&langs_count=7&theme=neon"></img>
-  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NbMiranda&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NbMiranda&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
+    
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 40px;">
       <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img align="center" alt="Rafa-HTML" height="55" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>

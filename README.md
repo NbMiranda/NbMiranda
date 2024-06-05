@@ -58,8 +58,6 @@
       <img align="center" alt="zacss" height="55" width="55"  
       src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"/>
       <img align="center" alt="zacss" height="55" width="55"  
-      src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
-      <img align="center" alt="zacss" height="55" width="55"  
       src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"/>
       <img align="center" alt="zacss" height="55" width="55"  
       src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"/>

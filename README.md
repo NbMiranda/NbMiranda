@@ -26,6 +26,7 @@
   <a href="https://github.com/NbMiranda">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NbMiranda&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NbMiranda&layout=compact&langs_count=7&theme=graywhite"/>
+    <br>
 </div>
     
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 40px;">
@@ -63,12 +64,9 @@
       <img align="center" alt="zacss" height="55" width="55"  
       src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"/>
       <img align="center" alt="zacss" height="55" width="55"  
-      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/><img align="center" alt="zacss" height="55" width="55"  
-      src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"/>
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
       <img align="center" alt="zacss" height="50" width="55"  
       src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"/>
-      <img align="center" alt="zacss" height="50" width="50"  
-      src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"/>
     
   </div>
 </div>

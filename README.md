@@ -68,13 +68,31 @@ Aceito projetos personalizados de qualquer natureza. Quanto mais desafiador, mai
 ### Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NbMiranda&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=FF2B2B&title_color=FF2B2B" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NbMiranda&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2B2B" alt="Linguagens mais usadas" />
+  <img src="https://img.shields.io/github/followers/NbMiranda?style=for-the-badge&label=SEGUIDORES&color=FF2B2B&labelColor=0D1117&logo=github&logoColor=white" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/NbMiranda?style=for-the-badge&label=ESTRELAS&color=FF2B2B&labelColor=0D1117&logo=github&logoColor=white" alt="Estrelas" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNbMiranda&query=%24.public_repos&style=for-the-badge&label=REPOS&color=FF2B2B&labelColor=0D1117&logo=git&logoColor=white" alt="Repositórios" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NbMiranda&column=7&theme=darkhub&no-frame=true&no-bg=true" alt="Troféus" />
-</p>
+---
+
+### No que estou trabalhando
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>Backend em escala</b><br>
+      <sub>Laravel multi-tenant, GraphQL e filas em Kubernetes</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>IA aplicada</b><br>
+      <sub>Agentes com LangChain e LangGraph em produção</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Produto ponta a ponta</b><br>
+      <sub>Do schema do banco à interface em Vue</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
